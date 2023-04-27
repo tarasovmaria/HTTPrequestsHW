@@ -2,7 +2,7 @@ from pprint import pprint
 
 import requests
 
-TOKEN = "y0_AgAAAABnsQIPAADLWwAAAADh0enKG0oxccByQNK2zqnMaWj-73-wtZM"
+TOKEN = ""
 class YandexDisk:
     def __init__(self, token):
         self.token = token
